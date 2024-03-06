@@ -1,1 +1,2 @@
 # Amazon-Sales
+This project delves into Amazon sales trends using SQL,Tableau and power point for a data analysis. It explores market trends, seller performance, and data visualization to provide valuable insights for businesses. The findings can be used to develop informed strategies, stay ahead of the curve, and make data-driven decisions to optimize Amazon sales performance. This project serves as a foundation for further exploration in the ever-evolving world of Amazon sales.
